@@ -1,0 +1,7 @@
+platform :ios, ‘8.0’
+target '知乎日报2’ do
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'JSONModel' 
+pod 'FMDB'
+end
